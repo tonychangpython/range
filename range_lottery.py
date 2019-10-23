@@ -3,7 +3,6 @@
 # 第二區 1~8 任選一個號碼
 import random
 a = []
-t = 0
 for i in range(6):
 	x = random.randint(1, 38)
 	a.append(x)
